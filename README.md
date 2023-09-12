@@ -43,9 +43,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue from https://github.com/nadeeshaMadusanka99/email-client/issues or submit a pull request.
-
----
-
-In this README template, make sure to replace `<repository-url>` with the actual URL of your GitHub repository.
-
-Additionally, you can provide specific instructions in the "Configuration" section if there are any environment-specific settings that users need to adjust. If you depend on external libraries or resources, acknowledge them in the "Acknowledgments" section. Finally, encourage contributions from the community by mentioning how others can get involved in your project in the "Contributing" section.
