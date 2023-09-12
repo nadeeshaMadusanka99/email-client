@@ -28,7 +28,8 @@ To use this project, follow these steps:
    Here this project is built using eclipse and the build path and dependencies are for the eclipse, If you are running this in vs code make sure to create the "settings.json" file for a similar configuration. 
 
 4. **Compile and Run:** Compile and run the Java files to start the Email Client application.
-     Then you can use standard Java commands like "javac" for compilation and "java" for running your program.
+- Then you can use standard Java commands like "javac" for compilation and "java" for running your program.
+- And in the ReadAndWrite.java file change the directory inside the FileReader to your local directly of the "clientList.txt" file which is in the project.     
 
 ## License
 
